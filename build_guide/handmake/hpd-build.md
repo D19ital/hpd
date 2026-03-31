@@ -43,7 +43,7 @@
 
 Важно не перепутать с другими платами похожего размера — нужен именно **RP2040-Zero**.
 
-[![Контроллер RP2040-Zero](https://images.dip8.ru/m/2cebc8aad66e951e9da454e98e458d1e.jpg)](https://images.dip8.ru/m/2cebc8aad66e951e9da454e98e458d1e.jpg)
+<a href="https://images.dip8.ru/m/2cebc8aad66e951e9da454e98e458d1e.jpg"><img src="https://images.dip8.ru/m/2cebc8aad66e951e9da454e98e458d1e.jpg" width="300" alt="Контроллер RP2040-Zero"/></a>
 
 *Фото 1. Контроллер RP2040-Zero*
 </details>
@@ -151,15 +151,15 @@
 3. **Вставь свитчи** в корпус.
 4. Надень **hot-swap сокеты** на контакты свитчей снизу — аккуратно, до фиксации.
 
-[![Hot-swap сокет и свитч перед установкой](images/prep-1.png)](images/prep-1.png)
+<a href="images/prep-1.png"><img src="images/prep-1.png" width="300" alt="Hot-swap сокет и свитч перед установкой"/></a>
 
 *Фото 2. Hot-swap сокет и свитч — до установки*
 
-[![Свитчи установлены в корпус](images/prep-2.png)](images/prep-2.png)
+<a href="images/prep-2.png"><img src="images/prep-2.png" width="300" alt="Свитчи установлены в корпус"/></a>
 
 *Фото 3. Свитчи вставлены в корпус*
 
-[![Hot-swap сокеты установлены на свитчи в корпусе](images/prep-3.png)](images/prep-3.png)
+<a href="images/prep-3.png"><img src="images/prep-3.png" width="300" alt="Hot-swap сокеты установлены на свитчи в корпусе"/></a>
 
 *Фото 4. Сокеты надеты на свитчи — готово к пайке*
 </details>
@@ -180,19 +180,19 @@
 |---|
 | ⚠️ На последнем фото показан ключевой момент — как именно соединяются катоды. Посмотри перед пайкой. |
 
-[![Подготовка hot-swap сокетов перед пайкой столбцов и строк](images/columns-rows-1.png)](images/columns-rows-1.png)
+<a href="images/columns-rows-1.png"><img src="images/columns-rows-1.png" width="300" alt="Подготовка hot-swap сокетов перед пайкой столбцов и строк"/></a>
 
 *Фото 5. Залуженные сокеты — готовы к пайке столбцов*
 
-[![Припайка подготовленных штырьков к левым контактам hot-swap сокетов](images/columns-rows-2.png)](images/columns-rows-2.png)
+<a href="images/columns-rows-2.png"><img src="images/columns-rows-2.png" width="300" alt="Припайка подготовленных штырьков к левым контактам hot-swap сокетов"/></a>
 
 *Фото 6. Штырьки от диодов припаяны к левым контактам сокетов*
 
-[![Пайка диодов по строкам справа налево](images/columns-rows-3.png)](images/columns-rows-3.png)
+<a href="images/columns-rows-3.png"><img src="images/columns-rows-3.png" width="300" alt="Пайка диодов по строкам справа налево"/></a>
 
 *Фото 7. Диоды припаяны по строкам справа налево*
 
-[![Нюанс соединения катодов между собой](images/columns-rows-4.png)](images/columns-rows-4.png)
+<a href="images/columns-rows-4.png"><img src="images/columns-rows-4.png" width="300" alt="Нюанс соединения катодов между собой"/></a>
 
 *Фото 8. Катоды соединены между собой — строка замкнута*
 </details>
@@ -277,35 +277,35 @@ RP2040-Zero — это мозг клавиатуры. Сейчас нужно с
 |---|
 | ⚠️ Важно: подбирай длину проводов так, чтобы RP-ZERO свободно двигалась и переворачивалась в корпусе в пределах отверстия для USB. Если провода окажутся короткими и натянутыми — они могут оборваться при сборке корпуса. |
 
-[![Распиновка RP2040-Zero — номера пинов](images/rp-zero-pinout.png)](images/rp-zero-pinout.png)
+<a href="images/rp-zero-pinout.png"><img src="images/rp-zero-pinout.png" width="300" alt="Распиновка RP2040-Zero — номера пинов"/></a>
 
 *Фото 9. Распиновка RP2040-Zero — какой пин за что отвечает*
 
-[![Начало пайки проводов к контроллеру](images/rp-zero-wires-start.png)](images/rp-zero-wires-start.png)
+<a href="images/rp-zero-wires-start.png"><img src="images/rp-zero-wires-start.png" width="300" alt="Начало пайки проводов к контроллеру"/></a>
 
 *Фото 10. Первые провода припаяны к контроллеру*
 
-[![Провода подключены к столбцам и рядам](images/rp-zero-wires-keyboard.png)](images/rp-zero-wires-keyboard.png)
+<a href="images/rp-zero-wires-keyboard.png"><img src="images/rp-zero-wires-keyboard.png" width="300" alt="Провода подключены к столбцам и рядам"/></a>
 
 *Фото 11. Все провода столбцов и рядов подключены*
 
-[![Контроллер установлен в корпус](images/rp-zero-installed.png)](images/rp-zero-installed.png)
+<a href="images/rp-zero-installed.png"><img src="images/rp-zero-installed.png" width="300" alt="Контроллер установлен в корпус"/></a>
 
 *Фото 12. Контроллер размещён в корпусе*
 
-[![USB Type-C адаптер — вид до пайки](images/usb-c-adapter.png)](images/usb-c-adapter.png)
+<a href="images/usb-c-adapter.png"><img src="images/usb-c-adapter.png" width="300" alt="USB Type-C адаптер — вид до пайки"/></a>
 
 *Фото 13. USB Type-C адаптер до подключения проводов*
 
-[![Провода припаяны к USB Type-C адаптеру](images/usb-c-wires.png)](images/usb-c-wires.png)
+<a href="images/usb-c-wires.png"><img src="images/usb-c-wires.png" width="300" alt="Провода припаяны к USB Type-C адаптеру"/></a>
 
 *Фото 14. Провода VCC, GND, D−, D+ припаяны к USB адаптеру*
 
-[![USB адаптер подключён к контроллеру](images/usb-c-rp-zero-connected.png)](images/usb-c-rp-zero-connected.png)
+<a href="images/usb-c-rp-zero-connected.png"><img src="images/usb-c-rp-zero-connected.png" width="300" alt="USB адаптер подключён к контроллеру"/></a>
 
 *Фото 15. USB адаптер подключён к RP-ZERO*
 
-[![Итоговый вид: резистор и все провода припаяны](images/rp-zero-resistor-complete.png)](images/rp-zero-resistor-complete.png)
+<a href="images/rp-zero-resistor-complete.png"><img src="images/rp-zero-resistor-complete.png" width="300" alt="Итоговый вид: резистор и все провода припаяны"/></a>
 
 *Фото 16. Готово: резистор и все провода на месте*
 
@@ -346,11 +346,11 @@ RP2040-Zero — это мозг клавиатуры. Сейчас нужно с
 
 ---
 
-[![Обе половинки клавиатуры без кейкапов перед тестом](images/firmware-test-bare.jpg)](images/firmware-test-bare.jpg)
+<a href="images/firmware-test-bare.jpg"><img src="images/firmware-test-bare.jpg" width="300" alt="Обе половинки клавиатуры без кейкапов перед тестом"/></a>
 
 *Фото 17. Обе половинки без кейкапов — готовы к тесту*
 
-[![Обе половинки с подключёнными проводами во время теста](images/firmware-test-wired.jpg)](images/firmware-test-wired.jpg)
+<a href="images/firmware-test-wired.jpg"><img src="images/firmware-test-wired.jpg" width="300" alt="Обе половинки с подключёнными проводами во время теста"/></a>
 
 *Фото 18. Подключено к компьютеру — идёт проверка клавиш*
 

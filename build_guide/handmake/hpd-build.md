@@ -217,7 +217,7 @@
 
 <a href="images/trimmed-diode-legs-new.jpg"><img src="images/trimmed-diode-legs-new.jpg" width="300" alt="Диоды с обрезанными ножками"/></a>
 
-*📸 Диоды 1N4148 с обрезанными ножками*
+*📸 Обрезанные ножки диодов — заготовки для пайки*
 
 <a href="images/diodes-bent-leg-new.jpg"><img src="images/diodes-bent-leg-new.jpg" width="300" alt="Диоды с подогнутой ногой"/></a>
 

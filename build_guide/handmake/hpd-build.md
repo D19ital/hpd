@@ -56,6 +56,10 @@
 Через этот разъём каждая половинка подключается к компьютеру. Нужен вариант на плате-адаптере — так его удобнее паять.
 
 > Для поиска: `USB 3.1 Type-C Female Socket Connector Replacement 16 Pin Test PCB Board Adapter`
+
+<a href="images/usb-c-adapter-component.jpg"><img src="images/usb-c-adapter-component.jpg" width="300" alt="USB Type-C разъём на плате-адаптере"/></a>
+
+*📸 USB Type-C разъём на плате-адаптере*
 </details>
 
 <div style="height: 5px; background-color: #ccc; margin: 40px 0;"></div>

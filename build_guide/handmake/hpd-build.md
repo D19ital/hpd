@@ -28,7 +28,7 @@
 |---|
 | Не спеши. Собрать аккуратно с первого раза — лучше, чем переделывать потом. |
 
----
+<div style="height: 5px; background-color: #ccc; margin: 40px 0;"></div>
 
 ## Компоненты
 
@@ -152,7 +152,7 @@
 
 </details>
 
----
+<div style="height: 5px; background-color: #ccc; margin: 40px 0;"></div>
 
 ## Инструменты
 
@@ -164,7 +164,7 @@
 - Кусачки / бокорезы
 - Отвёртка
 
----
+<div style="height: 5px; background-color: #ccc; margin: 40px 0;"></div>
 
 ## Порядок сборки
 
@@ -437,7 +437,7 @@ RP2040-Zero — это мозг клавиатуры. Сейчас нужно с
 
 
 
----
+<div style="height: 5px; background-color: #ccc; margin: 40px 0;"></div>
 
 ## Модули
 
@@ -446,7 +446,7 @@ RP2040-Zero — это мозг клавиатуры. Сейчас нужно с
 
 - 
 
----
+<div style="height: 5px; background-color: #ccc; margin: 40px 0;"></div>
 
 ## Проверка после сборки
 
@@ -457,7 +457,7 @@ RP2040-Zero — это мозг клавиатуры. Сейчас нужно с
 - убедиться, что устройство корректно подключается;
 - выполнить базовую проверку функций.
 
----
+<div style="height: 5px; background-color: #ccc; margin: 40px 0;"></div>
 
 ## Заметки для финального наполнения
 
